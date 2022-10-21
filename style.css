@@ -43,3 +43,21 @@ footer .footer a{
   margin-left: 38px;
   color: #fff;
 }
+.backtotop{
+  background-color: #1d1b1b;
+  padding: 5px 5px;
+  margin-left: 80px;
+  margin-right: 90px;
+  border-radius: 10px 10px 0px 0px;
+}
+.backtotop a{
+  color: #fff;
+  margin-left: 24%;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.backtotop a:visited{
+  color: #fff;
+}
