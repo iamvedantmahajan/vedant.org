@@ -102,6 +102,9 @@ i.fa-leaf{
         transition: all 0.5s ease;
         z-index: 2;
     }
+    nav .logo{
+        margin-right: 30px;
+    }
     #click:checked ~ ul{
         left: 0%;
         z-index: 2;
